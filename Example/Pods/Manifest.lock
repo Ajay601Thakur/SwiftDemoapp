@@ -2,7 +2,7 @@ PODS:
   - Charts (3.6.0):
     - Charts/Core (= 3.6.0)
   - Charts/Core (3.6.0)
-  - SwiftDemoAppp (0.1.0):
+  - SwiftDemoAppp (0.1.1):
     - Charts
 
 DEPENDENCIES:
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
-  SwiftDemoAppp: 384f841bccb42714dad5f40dbfa82c1dd919e4e0
+  SwiftDemoAppp: 0d14097b0bbf5d5dd93f1ba0f3e8cd0e8d1dc2e6
 
 PODFILE CHECKSUM: c40930a8d8c63645ee40cd03efb5d7ddb1f2dec6
 
