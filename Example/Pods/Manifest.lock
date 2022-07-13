@@ -1,15 +1,24 @@
 PODS:
-  - SwiftDemoAppp (0.1.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - SwiftDemoAppp (0.1.0):
+    - Charts
 
 DEPENDENCIES:
   - SwiftDemoAppp (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Charts
 
 EXTERNAL SOURCES:
   SwiftDemoAppp:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftDemoAppp: c6f39d36b8a82d5e3f258e1b236b1fe76b29b1f8
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  SwiftDemoAppp: 384f841bccb42714dad5f40dbfa82c1dd919e4e0
 
 PODFILE CHECKSUM: c40930a8d8c63645ee40cd03efb5d7ddb1f2dec6
 
