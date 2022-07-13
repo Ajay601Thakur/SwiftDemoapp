@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftDemoAppp'
   s.version          = '0.1.1'
-  s.summary          = 'A short description of SwiftDemoAppp.'
+  s.summary          = 'This is social media engine to integrate any social media platform.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
